@@ -1,0 +1,10 @@
+engine,image,seconds
+tesseract,handwritten_01,1.09
+tesseract,handwritten_02,0.85
+tesseract,handwritten_03,0.56
+tesseract,printed_arabic_01,1.66
+tesseract,printed_arabic_02,0.46
+tesseract,printed_arabic_03,0.88
+tesseract,tabled_data_01,0.39
+tesseract,tabled_data_02,0.22
+tesseract,tabled_data_03,1.11
